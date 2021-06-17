@@ -23,6 +23,7 @@ backgrounds = {
 	snow = love.graphics.newImage("res/backgrounds/snow.png"),
 	input_config = love.graphics.newImage("res/backgrounds/options-input.png"),
 	game_config = love.graphics.newImage("res/backgrounds/options-game.png"),
+  replays = love.graphics.newImage("res/backgrounds/replays.png"),
 }
 
 blocks = {
